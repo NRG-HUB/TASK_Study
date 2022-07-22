@@ -12,7 +12,7 @@ Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr
 
 <br>
 
-#### You can view the instructions in [<u>written form</u>](README.md#written-instructions) with images.
+#### You can view the instructions in [<u>written form</u>](README.md#written-instructions) with images from the task.<br> This will give you an idea of what it entails.
 
 <br>
 
