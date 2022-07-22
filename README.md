@@ -22,8 +22,10 @@ Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr
 <br>
 
 # Written Instructions
-<br>
 
+### What is the [<b>aim</b>](README.md#we-want-you-to-maximize-reward-andminimize-effort-over-the-whole-taskone-side-is-better-than-the-other-andwe-want-you-to-figure-out-which-one-it-is) of this task?
+
+<br>
 <h3 align="center"><b>Choose a shape</b><br> <img width="500" src="task_choice.png" alt="choice"> </h3>
 <br>
 <br>
