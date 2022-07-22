@@ -22,11 +22,20 @@ Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr
 <br>
 
 # Written Instructions
+<br>
 
-
-<h3 style="color:red">IMPORTANT</h3>
-
+<p align="center"><b>Choose a shape</b><br> <img width="500" src="task_choice.png" alt="choice"> </p>
 <br>
 <br>
+
+<p align="center"><b>See the effort needed to achieve which reward</b><br> <img width="500" src="task_outcome.png" alt="outcome"> </p>
 <br>
+<br>
+
+<p align="center"><b>Exert effort by pressing C and M in alternation (CMCMCM...)<br>and fill up the bar</b><br> <img width="500" src="task_effort.png" alt="effort"> </p>
+<br>
+<br>
+
+<p align="center"><b>Achieve reward!</b><br><img width="800" src="task_reward.png" alt="reward"> </p>
+
 
