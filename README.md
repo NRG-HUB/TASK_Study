@@ -33,7 +33,7 @@ One side is <b>better than the other</b> and we want you to figure out which one
 <br>
 <br>
 
-<h3 align="center"><b>See the reward you will get and the effort required</b><br> <img width="500" src="task_outcome.png" alt="outcome"> </h3>
+<h3 align="center"><b>The outcome is an image (reward) and<br>the effort it requires</b><br> <img width="500" src="task_outcome.png" alt="outcome"> </h3>
 <br>
 <br>
 
