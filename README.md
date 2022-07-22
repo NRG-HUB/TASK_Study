@@ -11,17 +11,18 @@ Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr
 <br>
 <br>
 
-#### You can view the instructions in [<u>written</u>](README.md#written-instructions) form with images from the task.<br> This will give you an idea of what it entails.
+#### You can view the [instructions](README.md#instructions) with images from the task.<br> This will give you an idea of what it entails.
 
 <br>
 
 # Take Part!
+<br>
 
 <p align="center"> <img width="800" src="Task_poster.jpg" alt="poster"> </p> 
 
 <br>
 
-# Written Instructions
+# Instructions
 <br>
 
 ### [What is the aim of the task?](README.md#your-aim)
