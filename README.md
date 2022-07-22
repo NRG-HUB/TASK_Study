@@ -38,8 +38,11 @@ Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr
 
 <h3 align="center"><b>Achieve reward!<br>It's obvious which one is more rewarding...</b><br><br><img width="800" src="task_reward.png" alt="reward"> </h3>
 <br>
+<br>
 
-<h3 align="center" style="color:red"><b>Repeat!<br><br><br></h3>
+<h3 align="center" style="color:red"><b>Repeat!</b></h3>
+<br>
+<br>
 
-<h3 align="center">We want you to MAXIMIZE reward and<br>MINIMIZE effort over the whole task.<br><br>One side is better than the other and<br>we want you to figure out which one it is!</b></h3>
+<h3 align="center"><b>We want you to MAXIMIZE reward and<br>MINIMIZE effort over the whole task.<br><br>One side is better than the other and<br>we want you to figure out which one it is!</b></h3>
 
