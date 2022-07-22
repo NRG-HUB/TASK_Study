@@ -27,7 +27,7 @@ Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr
 ### [What is the aim of the task?](README.md#your-aim)
 
 <br>
-<h3 align="center"><b>Choose a shape</b><br> <img width="500" src="task_choice.png" alt="choice"> </h3>
+<h3 align="center"><b>Choose a shape</b><br> <img width="600" src="task_choice.png" alt="choice"> </h3>
 <br>
 <br>
 
@@ -47,6 +47,9 @@ Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr
 <br>
 <br>
 
-### Your Aim
-We want you to <b>MAXIMIZE</b> reward and<br><b>MINIMIZE</b> effort over the whole task.<br><br>One side is <b>better than the other</b> and<br>we want you to figure out which one it is!
+# Your Aim
+We want you to <b>MAXIMIZE</b> reward and<br>
+<b>MINIMIZE</b> effort over the whole task.<br><br>
+One side is <b>better than the other</b> and<br>
+we want you to figure out which one it is!
 
