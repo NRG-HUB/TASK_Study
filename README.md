@@ -4,7 +4,7 @@
 
 This page contains information about the TASK study being conducted by the NRG lab, University of Reading. <br>
 
-##### This is a study being conducted by the [NRG-Lab](https://www.nrg-lab.co.uk/) by the following researchers:<br>
+### This is a study being conducted by the [NRG-Lab](https://www.nrg-lab.co.uk/) by the following researchers:<br>
 Prof. Ciara McCabe (<a href="mailto:c.mccabe@reading.ac.uk">c.mccabe@reading.ac.uk</a>) 
 
 Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr.reading.ac.uk</a>) 
