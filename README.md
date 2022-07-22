@@ -18,7 +18,7 @@ Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr
 # Take Part!
 <br>
 
-<p align="center"> <img width="800" src="Task_poster.jpg" alt="poster"> </p> 
+<p align="center"> <img width="1000" src="Task_poster.jpg" alt="poster"> </p> 
 
 <br>
 
