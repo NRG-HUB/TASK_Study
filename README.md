@@ -1,6 +1,6 @@
 <body style="background-color:e4e4e4;"></body>
 
-<p align="center"> <img width="200" src="https://raw.githubusercontent.com/NRG-HUB/SMARTPHONE_Study/main/nrg_logo.jpeg" alt="logo"> </p> 
+<p align="center"> <img width="200" src="https://raw.githubusercontent.com/NRG-HUB/SMARTPHONE_Study/main/nrg-logo.jpg" alt="logo"> </p> 
 
 This page contains information about the TASK study being conducted by the NRG lab, University of Reading. <br>
 
