@@ -23,7 +23,7 @@ Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr
 
 # Written Instructions
 
-                                                  What is the [AIM](README.md#your-aim) of the task?
+What is the [AIM](README.md#your-aim) of the task?
 
 <br>
 <h3 align="center"><b>Choose a shape</b><br> <img width="500" src="task_choice.png" alt="choice"> </h3>
