@@ -25,7 +25,7 @@ Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr
 # Instructions
 
 ### Your Aim
-We want you to <b>MAXIMIZE</b> reward and <b>MINIMIZE</b> effort over the whole task.<br><br>
+We want you to <b>MAXIMIZE reward</b> and <b>MINIMIZE effort</b> over the whole task.<br><br>
 One side is <b>better than the other</b> and we want you to figure out which one it is!
 
 <br>
