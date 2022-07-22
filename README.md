@@ -16,7 +16,7 @@ Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr
 <br>
 
 # Take Part!
-You may take part following the instructions in the **recruitment poster** below:
+
 <p align="center"> <img width="800" src="Task_poster.jpg" alt="poster"> </p> 
 
 <br>
