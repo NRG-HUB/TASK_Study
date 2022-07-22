@@ -11,7 +11,7 @@ Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr
 <br>
 <br>
 
-#### You can view the instructions in [<u>written form</u>](README.md#written-instructions) with images from the task.<br> This will give you an idea of what it entails.
+#### You can view the instructions in [<u>written</u>](README.md#written-instructions) form with images from the task.<br> This will give you an idea of what it entails.
 
 <br>
 
@@ -36,6 +36,6 @@ Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr
 <br>
 <br>
 
-<h3 align="center"><b>Achieve reward!</b><br><img width="800" src="task_reward.png" alt="reward"> </h3>
+<h3 align="center"><b>Achieve reward!</b><br><br><img width="800" src="task_reward.png" alt="reward"> </h3>
 
 
