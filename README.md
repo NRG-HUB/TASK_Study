@@ -81,7 +81,7 @@ body {
 }
 </style>
 
-<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<button onclick="topFunction()" id="myBtn" title="Go to top"><b><u>Top</u></b></button>
 
 <script>
 //Get the button
