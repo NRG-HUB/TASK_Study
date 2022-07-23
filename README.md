@@ -75,7 +75,8 @@ body {
 }
 
 #myBtn:hover {
-  background-color: #555;
+  background-color: white;
+  color: red;
 }
 </style>
 
