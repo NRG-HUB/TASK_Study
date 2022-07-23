@@ -79,6 +79,8 @@ body {
   background-color: white;
   color: red;
   outline: red;
+  border: red;
+  border-radius: 4px;
 }
 </style>
 
