@@ -78,6 +78,7 @@ body {
 #myBtn:hover {
   background-color: white;
   color: red;
+  outline: red;
 }
 </style>
 
