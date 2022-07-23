@@ -68,7 +68,7 @@ body {
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: red;
+  background-color: blue;
   color: white;
   cursor: pointer;
   padding: 15px;
@@ -77,7 +77,7 @@ body {
 
 #myBtn:hover {
   background-color: white;
-  color: red;
+  color: blue;
 }
 </style>
 
