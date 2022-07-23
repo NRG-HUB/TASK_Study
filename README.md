@@ -11,7 +11,7 @@ Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr
 <br>
 <br>
 
-#### You can view the [instructions](README.md#instructions) with images from the task.<br> This will give you an idea of what it entails.
+### You can view the [instructions](README.md#instructions) with images from the task.<br> This will give you an idea of what it entails.
 
 <br>
 
