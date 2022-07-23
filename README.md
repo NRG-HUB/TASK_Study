@@ -62,7 +62,7 @@ body {
   display: none;
   position: fixed;
   bottom: 20px;
-  left: 30px;
+  right: 30px;
   z-index: 99;
   font-size: 18px;
   border: none;
