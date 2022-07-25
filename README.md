@@ -24,6 +24,10 @@ You will need a <b>laptop or PC</b> to participate.
 
 <br>
 
+![](https://c.tenor.com/hpGgEDvmh4AAAAAC/thumbs-up-driving.gif)
+<br>
+<br>
+
 # Instructions
 
 ### Your Aim
