@@ -33,7 +33,11 @@ One side is <b>better than the other</b> and we want you to figure out which one
 
 <br>
 
-![](https://c.tenor.com/hpGgEDvmh4AAAAAC/thumbs-up-driving.gif)  <!--(https://c.tenor.com/fa890AzlMTkAAAAd/party-hard-raise-hands.gif) Office, party gif -->
+### ![](https://c.tenor.com/hpGgEDvmh4AAAAAC/thumbs-up-driving.gif) <br> Zach wishes you luck!
+
+<!--(https://c.tenor.com/1chQnZduRjkAAAAM/chuck-norris-approved.gif)  Chuck, thumbs up
+ 
+(https://c.tenor.com/fa890AzlMTkAAAAd/party-hard-raise-hands.gif) Office, party gif -->
 
 <br>
 <h3 align="center"><b>Choose a shape</b><br> <img width="600" src="task_choice.png" alt="choice"> </h3>
