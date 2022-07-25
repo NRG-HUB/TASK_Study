@@ -10,11 +10,16 @@ Prof. Ciara McCabe (<a href="mailto:c.mccabe@reading.ac.uk">c.mccabe@reading.ac.
 Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr.reading.ac.uk</a>) 
 <br>
 <br>
-<img src="https://cdn.dribbble.com/users/478636/screenshots/1801411/media/40ef17b9e7845a3320fc4740d7211780.gif" style="height:300px"><br>
-<b>Bob contributed to scientific research.<br>Bob is a superhero now.<br>Be Bob.</b>
+<br>
 
 ### You can view the [instructions](README.md#instructions) with images from the task.<br> This will give you an idea of what it entails.
 
+<br>
+<br>
+
+<img src="https://cdn.dribbble.com/users/478636/screenshots/1801411/media/40ef17b9e7845a3320fc4740d7211780.gif" style="height:300px"><br>
+<b>John contributed to scientific research.<br>John is a superhero now.<br>Be John.</b>
+<br>
 <br>
 
 # Take Part!
