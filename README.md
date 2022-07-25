@@ -23,9 +23,6 @@ You will need a <b>laptop or PC</b> to participate.
 <p align="center"> <img width="1000" src="Task_poster.jpg" alt="poster"> </p> 
 
 <br>
-
-![](https://c.tenor.com/hpGgEDvmh4AAAAAC/thumbs-up-driving.gif)
-<br>
 <br>
 
 # Instructions
@@ -33,6 +30,10 @@ You will need a <b>laptop or PC</b> to participate.
 ### Your Aim
 We want you to <b>MAXIMIZE reward</b> and <b>MINIMIZE effort</b> over the whole task.<br><br>
 One side is <b>better than the other</b> and we want you to figure out which one it is!
+
+<br>
+
+![](https://c.tenor.com/hpGgEDvmh4AAAAAC/thumbs-up-driving.gif)  <!--(https://c.tenor.com/fa890AzlMTkAAAAd/party-hard-raise-hands.gif) Office, party gif -->
 
 <br>
 <h3 align="center"><b>Choose a shape</b><br> <img width="600" src="task_choice.png" alt="choice"> </h3>
