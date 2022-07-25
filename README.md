@@ -39,6 +39,7 @@ We want you to <b>MAXIMIZE reward</b> and <b>MINIMIZE effort</b> over the whole 
 One side is <b>better than the other</b> and we want you to figure out which one it is!
 
 <br>
+
 <!--(https://c.tenor.com/1chQnZduRjkAAAAM/chuck-norris-approved.gif)  Chuck, thumbs up
  
 (https://c.tenor.com/fa890AzlMTkAAAAd/party-hard-raise-hands.gif) Office, party gif -->
