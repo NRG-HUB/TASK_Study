@@ -2,7 +2,7 @@
 
 <p align="center"> <img width="200" src="https://raw.githubusercontent.com/NRG-HUB/SMARTPHONE_Study/main/nrg-logo.jpg" alt="logo"> </p> 
 
-<p align="center"><iframe src="https://reading.onlinesurveys.ac.uk/contact_survey1" width="620" height="500"></iframe></p>
+<p align="center"><iframe src="https://reading.onlinesurveys.ac.uk/contact_survey1" width="620" height="550"></iframe></p>
 
 This page contains information about the TASK study being conducted by the NRG lab, University of Reading. <br>
 
