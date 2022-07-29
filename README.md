@@ -1,8 +1,12 @@
 <body style="background-color:e4e4e4;"></body>
 
-<p align="center"> <img width="200" src="https://raw.githubusercontent.com/NRG-HUB/SMARTPHONE_Study/main/nrg-logo.jpg" alt="logo"> </p> 
+<p align="center"> <img width="200" src="https://raw.githubusercontent.com/NRG-HUB/SMARTPHONE_Study/main/nrg-logo.jpg" alt="logo"> </p> <br>
 
-<p align="center"><iframe src="https://reading.onlinesurveys.ac.uk/contact_survey1" width="620" height="550"></iframe></p>
+Jump to the [information section](README.md#this-is-a-study-being-conducted-by-the-nrg-lab-by-the-following-researchers)
+
+<p align="center"> <img src="https://cdn.dribbble.com/users/478636/screenshots/1801411/media/40ef17b9e7845a3320fc4740d7211780.gif" style="height:300px"><br>
+<b>John contributed to scientific research.<br>John is a superhero now.<br>Be John.</b><br><br>
+<iframe src="https://reading.onlinesurveys.ac.uk/contact_survey1" width="620" height="550"></iframe></p><br>
 
 This page contains information about the TASK study being conducted by the NRG lab, University of Reading. <br>
 
@@ -17,9 +21,6 @@ Angad Sahni, PhD Student (<a href="mailto:a.sahni@pgr.reading.ac.uk">a.sahni@pgr
 
 <br>
 <br>
-
-<p align="center"> <img src="https://cdn.dribbble.com/users/478636/screenshots/1801411/media/40ef17b9e7845a3320fc4740d7211780.gif" style="height:300px"><br>
-<b>John contributed to scientific research.<br>John is a superhero now.<br>Be John.</b> </p>
 <br>
 <br>
 
